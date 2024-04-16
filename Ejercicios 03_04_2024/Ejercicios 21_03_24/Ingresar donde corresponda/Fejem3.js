@@ -50,7 +50,7 @@ alert("Bienvenidos a Cinep ep ep ep ep polis \n\nEl Gracioso que hizo el Registr
 
 //menu 
 while (true) {
-  var opcion = prompt("Por Favor Seleccione Una Opción para Continuar \n1. Ver disponibilidad de asientos \n2. Reservar asiento \n3. Ver ocupación sala \n4. Ver Balanance");
+  var opcion = prompt("Por Favor Seleccione Una Opción para Continuar \n1. Ver disponibilidad de asientos \n2. Reservar asiento \n3. Ver ocupación sala \n4. Ver Balanance\n5. Salir!");
  switch (opcion) {
    case "1":
    verDisponibilidad();//invoca la funcion de arriba con el mismo nombre 
